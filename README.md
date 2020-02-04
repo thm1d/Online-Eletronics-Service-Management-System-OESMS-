@@ -1,2 +1,2 @@
-# Online-Eletronics-Service-Management-System-OESMS-
-DBMS Project with MYSQL, PHP
+# OSMS
+Online Service Management System with HTML,CSS,Bootstrap,JavaScript,PHP,MySQL
